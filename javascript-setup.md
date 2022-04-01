@@ -1,4 +1,4 @@
-## Javascript Course Main Extensions
+## Javascript Main Extensions
 
 #### _Live Server_
 
